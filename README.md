@@ -4,9 +4,7 @@ Implemented using the [Keras](http://keras.io/) deep learning library and the [D
 
 [Follow @cosmosquared](https://twitter.com/cosmosquared)
 
-## Project Status
-
-This project is still a work in progress and is not finished.
+**Project Status:** This project is still a work in progress and is not finished.
 
 ## Overview
 
