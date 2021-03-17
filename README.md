@@ -2,7 +2,7 @@
 
 Implemented using the [Keras](http://keras.io/) deep learning library and the [DEAP](http://deap.readthedocs.org/en/master/) evolutionary computation framework.
 
-[Follow @cosmosquared](https://twitter.com/cosmosquared)
+[Follow @cosmoharrigan on Twitter](https://twitter.com/cosmoharrigan)
 
 **Project Status:** This project is still a work in progress and is not finished.
 
